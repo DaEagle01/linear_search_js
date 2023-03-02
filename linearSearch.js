@@ -10,4 +10,4 @@ const findDesiredFruit = (fruits, desiredFruit) => {
     return "Desired fruit not found";
 };
 
-findDesiredFruit(fruits, desiredFruit);
+console.log(findDesiredFruit(fruits, desiredFruit));
